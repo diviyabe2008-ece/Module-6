@@ -39,7 +39,8 @@ else:
     print("ob2 is less than ob1")
 ```
 ## Output
-<img width="693" height="158" alt="image" src="https://github.com/user-attachments/assets/db914ac1-5678-4e28-97d8-773977483f90" />
+<img width="944" height="170" alt="image" src="https://github.com/user-attachments/assets/161de29c-1da7-440f-b52c-30c03bc69a51" />
+
 
 ## Result
 Thus the prgram has been successfully executed.
