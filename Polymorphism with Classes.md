@@ -44,7 +44,7 @@ for func in (obj_beans,obj_mango):
     func.color()
 ```
 ## Output
-<img width="456" height="243" alt="image" src="https://github.com/user-attachments/assets/7cf1dbae-16c9-4410-a8bf-9a72fe28f467" />
+<img width="945" height="231" alt="image" src="https://github.com/user-attachments/assets/2db089d6-e0d9-4c13-a1a1-8f678f41398c" />
 
 ## Result
 Thus the prgram has been successfully executed.
