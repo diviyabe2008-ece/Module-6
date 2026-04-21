@@ -37,7 +37,7 @@ rect = Rectangle(5, 3)
 rect.print_values()
 ```
 ## Output
-<img width="416" height="271" alt="image" src="https://github.com/user-attachments/assets/11696a05-2ff2-4440-94ee-8409bc96783b" />
+<img width="740" height="186" alt="image" src="https://github.com/user-attachments/assets/e7d44b0a-cdaf-49dd-b07c-2b4b42058262" />
 
 ## Result
 Thus the prgram has been successfully executed.
